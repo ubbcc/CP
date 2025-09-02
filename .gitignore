@@ -1,0 +1,11 @@
+/新建文件夹
+/.VSCodeCounter
+/.cph
+*.exe
+input.txt
+output.txt
+*.ans
+*.in
+*.zip
+*.out
+*.prob
