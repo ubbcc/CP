@@ -1,6 +1,7 @@
 /新建文件夹
 /.VSCodeCounter
 /.cph
+.obsidian
 *.exe
 input.txt
 output.txt
